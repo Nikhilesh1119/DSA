@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "tree",
+            "request": "launch",
+            "mainClass": "tree",
+            "projectName": "java dsa_5ee9228c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "java dsa_5ee9228c"
+        },
+        {
+            "type": "java",
+            "name": "Backtracking",
+            "request": "launch",
+            "mainClass": "Backtracking",
+            "projectName": "java dsa_5ee9228c"
+        },
+        {
+            "type": "java",
+            "name": "Hashing",
+            "request": "launch",
+            "mainClass": "Hashing",
+            "projectName": "java dsa_5ee9228c"
+        },
+        {
+            "type": "java",
+            "name": "Heap",
+            "request": "launch",
+            "mainClass": "Heap",
+            "projectName": "java dsa_5ee9228c"
+        },
+        {
+            "type": "java",
+            "name": "Modulo_Arthmetics",
+            "request": "launch",
+            "mainClass": "Modulo_Arthmetics",
+            "projectName": "java dsa_5ee9228c"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "java dsa_5ee9228c"
+        },
+        {
+            "type": "java",
+            "name": "Stacks",
+            "request": "launch",
+            "mainClass": "Stacks",
+            "projectName": "java dsa_5ee9228c"
+        },
+        {
+            "type": "java",
+            "name": "linkedlist",
+            "request": "launch",
+            "mainClass": "linkedlist",
+            "projectName": "java dsa_5ee9228c"
+        },
+        {
+            "type": "java",
+            "name": "seiveOfEratoSthenes",
+            "request": "launch",
+            "mainClass": "seiveOfEratoSthenes",
+            "projectName": "java dsa_5ee9228c"
+        },
+        {
+            "type": "java",
+            "name": "sorting",
+            "request": "launch",
+            "mainClass": "sorting",
+            "projectName": "java dsa_5ee9228c"
+        }
+    ]
+}
